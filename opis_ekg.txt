@@ -1,2 +1,0 @@
-Sygna³y testowe EKG: pliki tekstowe, w których wiersze odpowiadaj¹ próbkom w kolejnych
-momentach czasowych, a kolumny - 12-tu odprowadzeniom. Czêstotliwoœæ próbkowania 800 Hz.
